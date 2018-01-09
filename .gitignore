@@ -16,3 +16,7 @@ __pycache__/
 .venv
 venv/
 ENV/
+
+*.zip
+*.json
+model_weights/
